@@ -1,3 +1,5 @@
+// start logic
+
 function clock() {
     let date = new Date();
     let hours = date.getHours(); // 0 - 23
